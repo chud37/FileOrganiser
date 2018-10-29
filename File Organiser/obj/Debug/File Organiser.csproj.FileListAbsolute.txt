@@ -1,0 +1,34 @@
+C:\Users\Chud37\source\repos\File Organiser\File Organiser\obj\Debug\MainWindow.g.cs
+C:\Users\Chud37\source\repos\File Organiser\File Organiser\obj\Debug\App.g.cs
+C:\Users\Chud37\source\repos\File Organiser\File Organiser\obj\Debug\File Organiser_MarkupCompile.cache
+C:\Users\Chud37\source\repos\File Organiser\File Organiser\obj\Debug\File Organiser_MarkupCompile.lref
+C:\Users\Chud37\source\repos\File Organiser\File Organiser\bin\Debug\File Organiser.exe.config
+C:\Users\Chud37\source\repos\File Organiser\File Organiser\bin\Debug\File Organiser.exe
+C:\Users\Chud37\source\repos\File Organiser\File Organiser\bin\Debug\File Organiser.pdb
+C:\Users\Chud37\source\repos\File Organiser\File Organiser\obj\Debug\MainWindow.baml
+C:\Users\Chud37\source\repos\File Organiser\File Organiser\obj\Debug\File Organiser.g.resources
+C:\Users\Chud37\source\repos\File Organiser\File Organiser\obj\Debug\File_Organiser.Properties.Resources.resources
+C:\Users\Chud37\source\repos\File Organiser\File Organiser\obj\Debug\File Organiser.csproj.GenerateResource.cache
+C:\Users\Chud37\source\repos\File Organiser\File Organiser\obj\Debug\File Organiser.csproj.CoreCompileInputs.cache
+C:\Users\Chud37\source\repos\File Organiser\File Organiser\obj\Debug\File Organiser.exe
+C:\Users\Chud37\source\repos\File Organiser\File Organiser\obj\Debug\File Organiser.pdb
+C:\Users\Richard.Gunn2\source\repos\File Organiser\File Organiser\bin\Debug\File Organiser.exe.config
+C:\Users\Richard.Gunn2\source\repos\File Organiser\File Organiser\bin\Debug\File Organiser.exe
+C:\Users\Richard.Gunn2\source\repos\File Organiser\File Organiser\bin\Debug\File Organiser.pdb
+C:\Users\Richard.Gunn2\source\repos\File Organiser\File Organiser\obj\Debug\File Organiser.csprojAssemblyReference.cache
+C:\Users\Richard.Gunn2\source\repos\File Organiser\File Organiser\obj\Debug\MainWindow.g.cs
+C:\Users\Richard.Gunn2\source\repos\File Organiser\File Organiser\obj\Debug\App.g.cs
+C:\Users\Richard.Gunn2\source\repos\File Organiser\File Organiser\obj\Debug\File Organiser_MarkupCompile.cache
+C:\Users\Richard.Gunn2\source\repos\File Organiser\File Organiser\obj\Debug\File Organiser_MarkupCompile.lref
+C:\Users\Richard.Gunn2\source\repos\File Organiser\File Organiser\obj\Debug\MainWindow.baml
+C:\Users\Richard.Gunn2\source\repos\File Organiser\File Organiser\obj\Debug\File Organiser.g.resources
+C:\Users\Richard.Gunn2\source\repos\File Organiser\File Organiser\obj\Debug\File_Organiser.Properties.Resources.resources
+C:\Users\Richard.Gunn2\source\repos\File Organiser\File Organiser\obj\Debug\File Organiser.csproj.GenerateResource.cache
+C:\Users\Richard.Gunn2\source\repos\File Organiser\File Organiser\obj\Debug\File Organiser.csproj.CoreCompileInputs.cache
+C:\Users\Richard.Gunn2\source\repos\File Organiser\File Organiser\obj\Debug\File Organiser.exe
+C:\Users\Richard.Gunn2\source\repos\File Organiser\File Organiser\obj\Debug\File Organiser.pdb
+C:\Users\Richard.Gunn2\source\repos\File Organiser\File Organiser\bin\Debug\File Organiser.exe.manifest
+C:\Users\Richard.Gunn2\source\repos\File Organiser\File Organiser\bin\Debug\File Organiser.application
+C:\Users\Richard.Gunn2\source\repos\File Organiser\File Organiser\obj\Debug\File Organiser.TrustInfo.xml
+C:\Users\Richard.Gunn2\source\repos\File Organiser\File Organiser\obj\Debug\File Organiser.exe.manifest
+C:\Users\Richard.Gunn2\source\repos\File Organiser\File Organiser\obj\Debug\File Organiser.application
