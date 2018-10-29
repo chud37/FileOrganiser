@@ -13,7 +13,7 @@ etc.
 ## How to use it
 Select the folder with the files inside that you wish to organise, (It's a recursive search meaning *every* file underneath that folder (including subfolders) will be actioned) and choose your mode (Year or Year > Month) and transfer type (Move / Copy).  Click Go and watch your files be auto-magically organised into folders.
 
-There is no malicious code in here but I accept no responsibility for any damanages this app may make to your machine.
+There is no malicious code in here but I accept no responsibility for any damages this app may make to your machine.
 
 ## Compiling
 Using Visual Studio, load the solution and click start. You can publish the app from there too.
